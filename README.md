@@ -1,6 +1,6 @@
 # Craft-IT Coding Challenge "Exchange Rates"
 
-_Weekend, Oct 14 to Oct 16 2017_
+_Weekend, Oct 14 to Oct 15 2017_
 
 __Receive €150 for a weekend of programming!__
 
